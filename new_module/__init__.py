@@ -1,0 +1,1 @@
+from . import new_module_model
