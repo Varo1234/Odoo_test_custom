@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'estate',
+    'name': 'Hola numdo',
     'category': 'Sales/CRM',
     'sequence': 150,
     'summary': 'Centralize your address book',
